@@ -1,4 +1,4 @@
-# ProdigyInfoTech-CyberSecurity-Internship-Task-01
+# ProdigyInfoTech-CyberSecurity-Internship-Project-01
 Caesar Cipher – Cyber Security Internship Task 01
 
 This project is part of the **Prodigy InfoTech Cyber Security Internship**.  
